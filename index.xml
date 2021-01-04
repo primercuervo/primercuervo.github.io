@@ -6,10 +6,6 @@
     <description>Recent content on Nicolas Cuervo</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>cuervonicolas@gmail.com (Nicolas Cuervo)</managingEditor>
-    <webMaster>cuervonicolas@gmail.com (Nicolas Cuervo)</webMaster>
-    
-	<atom:link href="https://primercuervo.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <webMaster>cuervonicolas@gmail.com (Nicolas Cuervo)</webMaster><atom:link href="https://primercuervo.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
